@@ -1,0 +1,10 @@
+# Placeholder for Azure ML deployment
+description: Simulated Azure deployment config for ROAAS model
+endpoint: /predict
+compute_target: Standard_DS11_v2
+environment:
+  python_version: 3.9
+  dependencies:
+    - scikit-learn
+    - pandas
+    - xgboost
