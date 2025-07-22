@@ -36,7 +36,7 @@ roaas-ml-simulator/
 ├── src/
 │   ├── model/       → Model training and inference
 │   ├── pipeline/    → Data ingestion and transformation
-│   └── utils/       → Helper functions
+│   └── utils/       → Helper functions(optional)
 ├── tests/           → Unit tests
 ├── .github/workflows/ → CI pipeline
 ```
