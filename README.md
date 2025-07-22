@@ -16,7 +16,7 @@ The goal is to demonstrate how AI/ML can be applied to aviation safety by predic
 - Containerized with Docker
 - Cloud deployment via Azure ML (mock)
 
-## 🪠 Tech Stack
+## 🧰 Tech Stack
 
 | Category       | Tools & Frameworks                       |
 |----------------|------------------------------------------|
@@ -90,6 +90,6 @@ Mock config included to simulate cloud deployment via `azure-deploy.yml`
 
 MIT License
 
-## 🧡 Credits
+## 🤝 Credits
 
 Inspired by real-world work at Collins Aerospace for aviation safety and predictive ML systems.
